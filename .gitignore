@@ -1,0 +1,14 @@
+# Pythonバイトコード
+*.pyc
+*.pyo
+# 仮想環境
+venv/
+env/
+# ジェネレートされたファイル
+__pycache__/
+# IDEの設定
+.vscode/
+.idea/
+# OSのゴミファイル
+.DS_Store
+Thumbs.db
