@@ -1,7 +1,5 @@
 # openlab2025
 
-rocky lab team1
-
 ## setup
 
 You need webcam to use this app.
