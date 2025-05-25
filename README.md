@@ -50,3 +50,8 @@ Open-hand to barrier.
 ### game over / game clear
 
 Pinch to restart.
+
+### option
+
+press F key : Full Screen Mode
+press W key : Window mode
